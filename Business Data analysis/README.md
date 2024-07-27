@@ -1,0 +1,3 @@
+**Project overview**
+
+This project offers a deep dive into the profitability landscape of global industries. By leveraging interactive visualizations, it provides a comprehensive analysis of industry-wise profitability trends, allowing users to explore data by country and industry. The dashboard highlights key metrics such as industry market value and average profitability margins, enabling users to identify high-performing sectors and regions. This project serves as a valuable resource for businesses, investors, and policymakers seeking insights into global economic trends and opportunities. 
